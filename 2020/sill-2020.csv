@@ -29,7 +29,7 @@ ID,fonction,nom,statut,parent,alternative-a,wikidata,comptoir-du-libre,licence,r
 28,Serveur d'impression,CUPS,R,,,Q868171,217,,,Intégration & Échanges,Serveur d'impression,,Services déconcentrés,MIMPROD,Distribution
 29,Injection de données dans GLPI à l'aide de fichiers CSV,Data Injection,R,GLPI,,,92,GPL-2.0-only,,Opérations,Déploiement gestion d’actif et de configuration,,GLPI,MIMO,2.6.4
 30,Effacement complet de tous les supports magnétiques d’une machine.,DBAN (Darik's Boot and Nuke),O,,,Q1165893,81,GPL-2.0-only / LGPL-2.0-only,,Données et contenu,Gestion des accès aux données,,,MIMO,2.3.0
-31,Outil d'injection afin tester les couches basses,DbFit,FR,,,,177,,,Conception & Développement,Test & Intégration,,,MIMDEV,3.2.0
+31,Outil d'injection afin tester les couches basses,DbFit,FR,,,,185,,,Conception & Développement,Test & Intégration,,,MIMDEV,3.2.0
 32,Distribution GNU/LINUX,Debian,R,,,Q7715973,241,,,Logiciel Système et Virtualisation,Système d'Exploitation,,En centre de production,MIMPROD,9
 33,Forum,Discourse,R,,,Q15054354,282,,,Orchestration et logique métier,Outil collaboratif,,,MIMO,
 34,Conteneurs logiciels,Docker,R,,,Q15206305,218,,,Opérations,Outils système & virtualisation,,Services déconcentrés,MIMPROD,Distribution
