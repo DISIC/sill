@@ -166,14 +166,14 @@ ID,fonction,nom,statut,parent,alternative-a,wikidata,comptoir-du-libre,licence,r
 168,Automatisation des tests,Squash TF Cucumber Java Runner,R,Squash TF,,,189,LGPL-3.0-only,,Conception & Développement,Test & Intégration,,,MIMDEV,1.21.0
 169,Automatisation des tests,Squash TF Execution Server,R,Squash TF,,,189,LGPL-3.0-only,,Conception & Développement,Test & Intégration,,,MIMDEV,1.21.0
 170,Automatisation des tests,Squash KeywordFramework,R,Squash TF,,,189,LGPL-3.0-only,,Conception & Développement,Test & Intégration,,,MIMDEV,1.21.0
-171,Outil de webmail,SOGo,R,,,Q1523357,,GPL-3.0-only,,Espace utilisateur et canal,Messagerie agenda contacts,,,MIMO,
-172,Application web pour la gestion du support,Zammad,R,,,Q71389626,,AGPL-3.0,,Espace utilisateur et canal,Outil de productivité,,En version 3.1 à la DINUM (Etalab),MIMO,
-173,Outil de génération de sites statiques,Jekyll,R,,,Q17067385,,MIT,,Données et contenu,Gestion de contenu web,,En version 3.1.2 à la DINUM (Etalab),MIMO,
+171,Outil de webmail,SOGo,R,,,Q1523357,139,GPL-3.0-only,,Espace utilisateur et canal,Messagerie agenda contacts,,,MIMO,
+172,Application web pour la gestion du support,Zammad,R,,,Q71389626,355,AGPL-3.0,,Espace utilisateur et canal,Outil de productivité,,En version 3.1 à la DINUM (Etalab),MIMO,
+173,Outil de génération de sites statiques,Jekyll,R,,,Q17067385,356,MIT,,Données et contenu,Gestion de contenu web,,En version 3.1.2 à la DINUM (Etalab),MIMO,
 174,Éditeur de textes,GNU Emacs,R,,,Q189722,,GPL-3.0-or-later,,Espace utilisateur et canal,Consultation et édition de documents,,En version 26.3 à la DINUM (Etalab),MIMO,
-175,Outil de monitoring de service,Cachet,O,,,,,BSD-3-Clause,,Conception & Développement,Test & Intégration,,En version 2.3.18 à la DINUM (Etalab),MIMO,
-176,Outil de statistiques de fréquentation de sites web,Matomo,R,,,Q34162,,GPL-3.0-or-later,,Opérations,Supervision / Hypervision,,En version 3.12 à la DINUM (Etalab),MIMPROD,
-177,Outil de gestion de configuration postfix,postfix.admin,R,,,,,GPL-2.0-or-later,,Opérations,Supervision / Hypervision,,En version 3.2 à la DINUM (Etalab),MIMPROD,
-178,Outil de gestion de machines virtuelles,Proxmox VE,R,,,Q344376,,AGPL-3.0,,Opérations,Outils système & virtualisation,,En version 5.4-13 à la DINUM (Etalab),MIMPROD,
-179,Outil de déploiement d'applications,Yunohost,O,,,Q15971793,,AGPL-3.0,,Opérations,Outils système & virtualisation,,En version 3.6.5.3 à la DINUM (Etalab),MIMPROD,
-180,Outil de partage de notes,CodiMD,O,,,,,AGPL-3.0,,Orchestration et logique métier,Outil collaboratif,,En version 1.4.1 à la DINUM,MIMO,
-181,Outil de chiffrement dans les dépôts Git,git-crypt,R,,,,,GPL-3.0,,Conception & développement,Qualité et sécurité du code source,,,MIMDEV,Version distribution
+175,Outil de monitoring de service,Cachet,O,,,,357,BSD-3-Clause,,Conception & Développement,Test & Intégration,,En version 2.3.18 à la DINUM (Etalab),MIMO,
+176,Outil de statistiques de fréquentation de sites web,Matomo,R,,,Q34162,358,GPL-3.0-or-later,,Opérations,Supervision / Hypervision,,En version 3.12 à la DINUM (Etalab),MIMPROD,
+177,Outil de gestion de configuration postfix,postfix.admin,R,,,,359,GPL-2.0-or-later,,Opérations,Supervision / Hypervision,,En version 3.2 à la DINUM (Etalab),MIMPROD,
+178,Outil de gestion de machines virtuelles,Proxmox VE,R,,,Q344376,113,AGPL-3.0,,Opérations,Outils système & virtualisation,,En version 5.4-13 à la DINUM (Etalab),MIMPROD,
+179,Outil de déploiement d'applications,Yunohost,O,,,Q15971793,361,AGPL-3.0,,Opérations,Outils système & virtualisation,,En version 3.6.5.3 à la DINUM (Etalab),MIMPROD,
+180,Outil de partage de notes,CodiMD,O,,,,362,AGPL-3.0,,Orchestration et logique métier,Outil collaboratif,,En version 1.4.1 à la DINUM,MIMO,
+181,Outil de chiffrement dans les dépôts Git,git-crypt,R,,,,363,GPL-3.0,,Conception & développement,Qualité et sécurité du code source,,,MIMDEV,Version distribution
