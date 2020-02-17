@@ -177,6 +177,6 @@ ID,fonction,nom,statut,parent,alternative-a,wikidata,comptoir-du-libre,licence,r
 179,Outil de déploiement d'applications,Yunohost,O,,,Q15971793,361,AGPL-3.0,,Opérations,Outils système & virtualisation,,En version 3.6.5.3 à la DINUM (Etalab),MIMPROD,
 180,Outil de partage de notes,CodiMD,O,,,,362,AGPL-3.0,,Orchestration et logique métier,Outil collaboratif,,En version 1.4.1 à la DINUM,MIMO,
 181,Outil de chiffrement dans les dépôts Git,git-crypt,R,,,,363,GPL-3.0,,Conception & développement,Qualité et sécurité du code source,,,MIMDEV,Version distribution
-182,Environnement de développement intégré (IDE) pour le langage de programmation R.,RStudio,R,,,Q4798119,,AGPL-3.0,,Espace utilisateur et canal,Consultation et édition de documents,,En version 1.2 à l'ANCT,MIMDEV,
-183,Outil d'entraînement à la sécurité d'applications,RTF (Remediate The Flag),R,,,,,Apache-2.0,,Conception & développement,Qualité et sécurité du code source,,,MIMDEV,
-184,Système de gestion de base de données,Redis,R,,,Q2136322,,BSD-3-Clause,,Données et contenu,Gestionnaire de données non relationnelles,,En version 5.0.7 à Sorbonne université,MIMPROD,
+182,Environnement de développement intégré (IDE) pour le langage de programmation R.,RStudio,R,,,Q4798119,366,AGPL-3.0,,Espace utilisateur et canal,Consultation et édition de documents,,En version 1.2 à l'ANCT,MIMDEV,
+183,Outil d'entraînement à la sécurité d'applications,RTF (Remediate The Flag),R,,,,367,Apache-2.0,,Conception & développement,Qualité et sécurité du code source,,,MIMDEV,
+184,Système de gestion de base de données,Redis,R,,,Q2136322,365,BSD-3-Clause,,Données et contenu,Gestionnaire de données non relationnelles,,En version 5.0.7 à Sorbonne université,MIMPROD,
