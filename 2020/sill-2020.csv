@@ -44,11 +44,11 @@ ID,fonction,nom,annees,statut,parent,alternative-a,wikidata,comptoir-du-libre,li
 43,Client FTP,Filezilla,2018 ; 2019 ; 2020,R,,,Q300662,64,GPL-2.0,,Données et contenu,Gestion des accès aux données,,Client FTP,MIMO,3.28
 44,Outil d'injection afin tester les couches basses,Fitnesse,2018 ; 2019 ; 2020,FR,,,,184,,,Conception & Développement,Test & Intégration,,,MIMDEV,20161106
 45,Sondage pour trouver des dates communes,Framadate (logiciel),2019 ; 2020,O,,,,284,,,Espace utilisateur et canal,Messagerie agenda contacts,,Utilisation expérimentale sur yunohost.etalab.studio/date/,MIMO,
-46,Application permettant la surveillance système et réseau,Nagios,2018,FR,,,Q1134360,,GPL-3.0,,Opérations,Outils système & virtualisation,,,MIMDEV,
+46,Application permettant la surveillance système et réseau,Nagios,2018,FR,,,Q1134360,209,GPL-3.0,,Opérations,Outils système & virtualisation,,,MIMDEV,
 47,Synchronisation Sauvegarde,FreeFileSync,2018 ; 2019 ; 2020,R,,,Q18150468,52,GPL-3.0,,Opérations,Synchronisation réplication déduplication,,,MIMO,10.6
 48,Grapheur d'idées,Freeplane,2018 ; 2019 ; 2020,R,,,Q3028675,61,GPL-2.0-only,,Espace utilisateur et canal,Outil de productivité,,,MIMO,1.7
 49,"Inventaire, télédéploiement et découverte du réseau",FusionInventory,2018 ; 2019 ; 2020,O,GLPI,,,84,AGPL-3.0-or-later,,Opérations,Déploiement gestion d’actif et de configuration,,Gestion parc,MIMO,9.1+1.1
-50,Gestion des transferts de fichiers dans un contexte de production et sécurisé,Waarp,2018,FR,,,,,GPL-3.0,,Conception & Développement,Partage de fichiers,,,MIMPROD,
+50,Gestion des transferts de fichiers dans un contexte de production et sécurisé,Waarp,2018,FR,,,,231,GPL-3.0,,Conception & Développement,Partage de fichiers,,,MIMPROD,
 51,Dessin (matriciel),Gimp,2018 ; 2019 ; 2020,R,,,Q8038,67,GPL-3.0-only,,Espace utilisateur et canal,Consultation et édition de documents,,,MIMO,2.10.14
 52,Outil de gestion des configurations (serveur),Git,2018 ; 2019 ; 2020,R,,,Q186055,175,GPL-2.0,,Conception & Développement,Gestion du code source,,,MIMDEV,Dernière
 53,Plateforme de développement,GitLab Community Edition,2018 ; 2019 ; 2020,R,,,Q16639197,198,,,Orchestration & logique métier,Outil collaboratif,,,MIMDEV,11.X
