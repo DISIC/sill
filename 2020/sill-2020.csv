@@ -140,7 +140,7 @@ ID,fonction,nom,annees,statut,parent,similaire-a,wikidata,comptoir-du-libre,lice
 139,Lecture simple de fichier PDF,SumatraPDF,2018 ; 2019 ; 2020,R,,,Q479808,57,GPL-3.0-only,Espace utilisateur et canal,Consultation et édition de documents,Sans remplissage de formulaire ni vérification de signature,MIMO,3.1.2
 140,Orchestration,Swarm,2018 ; 2019 ; 2020,O,,,Q7653883,230,,Opérations,Outils système & virtualisation,Conteneurs,MIMPROD,Distribution
 141,Stockage Objet,Swift (OpenStack),2018 ; 2019 ; 2020,R,,,,,,Stockage,Sauvegarde Serveur,Services déconcentrés,MIMPROD,Distribution
-142,Liste de diffusion/discussion,Sympa,2019 ; 2020,R,,,Q1850168,281,,Espace utilisateur et canal,Messagerie agenda contacts,Version 6.2.48 utilisée sur le réseau RENATER,MIMO,
+142,Liste de diffusion/discussion,Sympa,2019 ; 2020,R,,,Q1850168,281,,Espace utilisateur et canal,Messagerie agenda contacts,Version 6.2.54 utilisée sur le réseau RENATER,MIMO,
 143,Gestion des logs en mode centralisé,Syslog-ng,2018 ; 2019 ; 2020,R,,,Q467865,242,,Sécurité,Gestion des logs,Serveur Bureautique,MIMPROD,Distribution
 144,Reprise des données,Talend Open Studio for Data Integration (BASIC),2018 ; 2019 ; 2020,R,,,Q17097860,196,,Conception & Développement,Test & Intégration,Outil d'automatisation de la reprise de données,MIMDEV,7.0.1
 145,Vérification de la conformité de l'application aux règles d'accessibilité,Tanaguru,2018 ; 2019 ; 2020,O,,,,305,,Conception & Développement,Qualité et sécurité du code source,,MIMDEV,5.0.3
