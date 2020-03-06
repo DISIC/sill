@@ -187,5 +187,5 @@ ID,fonction,nom,annees,statut,parent,similaire-a,wikidata,comptoir-du-libre,lice
 188,Supervision Infrastructure et composants,Grafana,2020,O,,373,Q43399271,,Apache-2.0,Opérations,Supervision / Hypervision,,MIMPROD,6.x
 189,Stockage objet,OpenIO,2019 ; 2020,,,,Q30348631,376,AGPL-3,Stockage,Sauvegarde Serveur,,MIMPROD,19.10
 190,Correction terminologique à partir de la base FranceTerme,Correcteur terminologique fr (FranceTerme),2018 ; 2019 ; 2020,R,LibreOffice,,,,LGPL-2.1,Espace utilisateur et canal,Consultation et édition de documents,,MIMO,1.7
-191,Télédéploiement et télédiffusion des composants techniques et métiers sur les postes de travail Windows/Linux/Mac,Pulse,2020,O,GLPI,,,,GPL-2.0,Opérations,Déploiement gestion d’actif et de configuration,,MIMO,4
+191,Télédéploiement et télédiffusion des composants techniques et métiers sur les postes de travail Windows/Linux/Mac,Pulse,2020,O,GLPI,,,377,GPL-2.0,Opérations,Déploiement gestion d’actif et de configuration,,MIMO,4
 192,Module Kanban,ProjeQtOr,2020,O,,,Q17501773,375,AGPL-3,Espace utilisateur et canal,Outil de productivité,,MIMO,8.3
