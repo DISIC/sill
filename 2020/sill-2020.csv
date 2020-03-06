@@ -184,7 +184,7 @@ ID,nom,fonction,annees,statut,parent,similaire-a,wikidata,comptoir-du-libre,lice
 185,Archifiltre,Système d'aide à l'archivage de fichiers,2020,R,,,Q77064547,368,MIT,Espace utilisateur et canal,Outil de productivité,En version 2.0.x aux ministères sociaux,MIMO,2.0.x
 186,Dia,Outil de création de diagrammes,2018,FR,,,Q958908,66,GPL-2.0,Espace utilisateur et canal,Outil de productivité,,MIMO,
 187,Prometheus,Supervision Infrastructure et composants,2020,O,,,,374,Apache-2.0,Opérations,Supervision / Hypervision,,MIMPROD,2.5
-188,Grafana,Supervision Infrastructure et composants,2020,O,,373,Q43399271,,Apache-2.0,Opérations,Supervision / Hypervision,,MIMPROD,6.x
+188,Grafana,Supervision Infrastructure et composants,2020,O,,,Q43399271,373,Apache-2.0,Opérations,Supervision / Hypervision,,MIMPROD,6.x
 189,OpenIO,Stockage objet,2019 ; 2020,,,,Q30348631,376,AGPL-3,Stockage,Sauvegarde Serveur,,MIMPROD,19.10
 190,Correcteur terminologique fr (FranceTerme),Correction terminologique à partir de la base FranceTerme,2018 ; 2019 ; 2020,R,LibreOffice,,,,LGPL-2.1,Espace utilisateur et canal,Consultation et édition de documents,,MIMO,1.7
 191,Pulse,Télédéploiement et télédiffusion des composants techniques et métiers sur les postes de travail Windows/Linux/Mac,2020,O,GLPI,,,377,GPL-2.0,Opérations,Déploiement gestion d’actif et de configuration,,MIMO,4
