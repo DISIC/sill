@@ -189,5 +189,5 @@ ID,nom,fonction,annees,statut,parent,public,similaire-a,wikidata,comptoir-du-lib
 190,Correcteur terminologique fr (FranceTerme),Correction terminologique à partir de la base FranceTerme,2018 ; 2019 ; 2020,R,LibreOffice,,,,,LGPL-2.1,Espace utilisateur et canal,Consultation et édition de documents,,MIMO,1.7
 191,Pulse,Télédéploiement et télédiffusion des composants techniques et métiers sur les postes de travail Windows/Linux/Mac,2020,O,GLPI,,,,377,GPL-2.0,Opérations,Déploiement gestion d’actif et de configuration,,MIMO,4
 192,ProjeQtOr,Module Kanban,2020,O,,,,Q17501773,375,AGPL-3,Espace utilisateur et canal,Outil de productivité,,MIMO,8.3
-193,OpenShot,Logiciel d'édition de vidéos,2020,R,,,15,Q769346,,GPL-3,Espace utilisateur et canal,Outil de productivité,[Site de l'académie de Rouen](http://numeriques.spip.ac-rouen.fr/?Openshot),MIMO,2.4.3
+193,OpenShot,Logiciel d'édition de vidéos,2020,R,,,15,Q769346,379,GPL-3,Espace utilisateur et canal,Outil de productivité,[Site de l'académie de Rouen](http://numeriques.spip.ac-rouen.fr/?Openshot),MIMO,2.4.3
 194,VITAM,Solution d'archivage électronique,2020,R,,Oui,185,,323,CECILL-2.1,Espace utilisateur et canal,Outil de productivité,[www.programmevitam.fr](https://www.programmevitam.fr),MIMO,2.1.18
