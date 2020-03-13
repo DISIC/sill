@@ -66,7 +66,7 @@ ID,nom,fonction,annees,statut,parent,public,similaire-a,wikidata,comptoir-du-lib
 65,Javamelody,Outil de monitoring,2018 ; 2019 ; 2020,R,,,,,195,Apache-2.0,Conception & Développement,Test & Intégration,,MIMDEV,1.81.0
 66,Jenkins,"Outil d'aide à la livraison (dépôt, intégration continue...)",2018 ; 2019 ; 2020,R,,,,Q7491312,187,MIT,Conception & Développement,Test & Intégration,,MIMDEV,2.x
 67,Jitsi,Webconférence,2018 ; 2019 ; 2020,R,,,,Q58427,65,Apache-2.0,Espace utilisateur et canal,Visiophonie,,MIMO,2.9
-68,Roundcube,Webmail,2018,FR,,,171,Q1769269,,GPL-3.0,Espace utilisateur et canal,Messagerie agenda contacts,,MIMO,
+68,Roundcube,Webmail,2018,FR,,,171,Q1769269,112,GPL-3.0,Espace utilisateur et canal,Messagerie agenda contacts,,MIMO,
 69,Junit,Outil de gestion des tests unitaires,2018 ; 2019 ; 2020,R,,,,Q847675,183,,Conception & Développement,Test & Intégration,,MIMDEV,5.3
 70,K-9 Mail,Client de messagerie,2019 ; 2020,O,,,,Q14565723,,Apache-2.0,Espace utilisateur et canal,Messagerie agenda contacts,Client de Messagerie,MIMO,5.600
 71,KeeFox,Pour utiliser ses codes,2018 ; 2019 ; 2020,O,Firefox,,,Q61694243,293,GPL V2.0,Espace utilisateur et canal,Navigateur web,Pour utiliser ses codes,MIMO,2.5
