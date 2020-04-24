@@ -189,9 +189,9 @@ ID,nom,fonction,annees,statut,parent,public,similaire-a,wikidata,comptoir-du-lib
 194,VITAM,Solution d'archivage électronique,2020,R,,Oui,185,,323,CECILL-2.1,Espace utilisateur et canal,Outil de productivité,[www.programmevitam.fr](https://www.programmevitam.fr),MIMO,2.1.18
 195,Opale,Création de module de formation linéaire multi-support,2020,O,,,,Q91312803,380,"MPL-2.0, GPL-3.0, LGPL-3.0, CECILL-2.1",Espace utilisateur et canal,Outil de productivité,"Création de module de formation pour utilisation en ligne ou présentielle, avec des ressources interactives, cf. [support web](https://example.scenari.software/Opale@3.7/auroraW) et [support papier](https:// example.scenari.software/Opale@3.7/paper)",MIMO,3.7
 196,BigBlueButton,Serveur de visioconférence pour navigateurs WEB en HTML5,2020,R,,,67,Q4904858,384,LGPL-3.0,Espace utilisateur et canal,Outil de productivité,"Cours en ligne, formation et présentation à distance à l'académie de Versailles",MIMO,2.2
-197,Peertube,Plateforme d'hébergement décentralisée de vidéos,2020,O,,,,Q50938515,,AGPL-3.0-or-later,Espace utilisateur et canal,Outil de productivité,,MIMPROD,2.x
-198,Rancher,Outil d'orchestration de conteneurs,2020,O,,,75,,,Apache-2.0,Opérations,Outils système & virtualisation,,MIMPROD,
-199,exodus-privacy (standalone),Analyseur statique d'apk,2020,O,,,,Q60348651,,AGPL-3.0,Conception & Développement,Test & Intégration,,MIMDEV,1.1.1
-200,OpenFisca,Moteur de calcul socio-fiscal - [openfisca.org](https://openfisca.org),2020,R,,Oui,,Q64777688,,AGPL-3.0,Opérations,Outil métier,Calculs socio-fiscaux / Évaluation des politiques publiques,MIMDEV,34.7.3
+197,Peertube,Plateforme d'hébergement décentralisée de vidéos,2020,O,,,,Q50938515,140,AGPL-3.0-or-later,Espace utilisateur et canal,Outil de productivité,,MIMPROD,2.x
+198,Rancher,Outil d'orchestration de conteneurs,2020,O,,,75,,386,Apache-2.0,Opérations,Outils système & virtualisation,,MIMPROD,
+199,exodus-privacy (standalone),Analyseur statique d'apk,2020,O,,,,Q60348651,385,AGPL-3.0,Conception & Développement,Test & Intégration,,MIMDEV,1.1.1
+200,OpenFisca,Moteur de calcul socio-fiscal - [openfisca.org](https://openfisca.org),2020,R,,Oui,,Q64777688,387,AGPL-3.0,Opérations,Outil métier,Calculs socio-fiscaux / Évaluation des politiques publiques,MIMDEV,34.7.3
 201,SDK Géoportail,[Affichage d'une carte dynamique avec les données Géoportail](https://geoservices.ign.fr/documentation/utilisation_web/sdk.html),2020,R,,Oui,,,,CECILL-B,Conception & Développement,Environnement de développement,Développement web - voir [le dépôt](https://github.com/IGNF/geoportal-sdk),MIMDEV,3.0.11
-202,Zimbra,Outil de webmail,2020,R,,,171 ; 68,Q203485,,Zimbra-1.3,Espace utilisateur et canal,Messagerie agenda contacts,,MIMPROD,
+202,Zimbra,Outil de webmail,2020,R,,,171 ; 68,Q203485,110,Zimbra-1.3,Espace utilisateur et canal,Messagerie agenda contacts,,MIMPROD,
