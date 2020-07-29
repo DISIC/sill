@@ -214,4 +214,4 @@ ID,nom,fonction,annees,statut,parent,public,similaire-a,wikidata,comptoir-du-lib
 214,XWiki,Moteur de wiki,2020,R,,,86,Q526699,11,LGPL-2.1,Orchestration et logique métier,Outil collaboratif,,MIMO,10.11.3
 215,Pycharm CE,Environnement de développement,2020,R,,,97 ; 174,Q50557308,400,Apache-2.0,Espace utilisateur et canal,Consultation et édition de documents,,MIMO,2020.1
 216,Chamilo,Plateforme d'apprentissage à distance,2020,R,,,208 ; 209,Q423221,252,GPL-3.0+,Données et contenu,Gestion de contenu web,Déployé dans l'académie d'Aix-Marseille,MIMO,1.11.10
-217,Gravitee CE,Outil de gestion d'API,2020,R,,,,,,Apache-2.0,Opérations,Outil métier,,MIMPROD,3.x
+217,Gravitee CE,Outil de gestion d'API,2020,R,,,,Q97819945,,Apache-2.0,Opérations,Outil métier,,MIMPROD,3.x
